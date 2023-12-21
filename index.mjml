@@ -22,7 +22,7 @@
     <mj-section>
       
       <mj-column>
-      	<mj-image width="600px" src="./images./hero.png"/>
+      	<mj-image width="600px" src="./images/hero.png"/>
       </mj-column>
 
     </mj-section>
